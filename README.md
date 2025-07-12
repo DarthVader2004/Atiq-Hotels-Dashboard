@@ -158,5 +158,6 @@ Based on the `metrics list.xlsx` and dashboard analysis, the following KPIs are 
 
 ## 📮 Contact
 Created by **Aruj Singhvi**  
-For questions or suggestions, feel free to reach out via (https://github.com/DarthVader2004).
+For questions or suggestions, feel free to reach out via arujsinghvi@gmail.com
+
 
